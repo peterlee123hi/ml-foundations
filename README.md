@@ -14,7 +14,7 @@ Each project focuses on internalizing the mechanics.
 - [ ] Minimal implementation of the Transformer architecture
 
 ### Mathematical Foundations
-- [ ] Matrix decomposition toolkit (SVD, eigendecomposition, orthogonal projections)
+- [ ] Matrix decomposition library (SVD, eigendecomposition, orthogonal projections)
 - [ ] Gradient and Jacobian visualizer for multivariate functions
 - [ ] Numerical optimization playground (gradient descent, SGD variants)
 - [ ] Manual backprop walkthrough with symbolic derivation (LaTeX + markdown)
@@ -41,6 +41,6 @@ Each project focuses on internalizing the mechanics.
 ## Tech Stack & Tools
 
 - Python, NumPy, Matplotlib
-- Jupyter Notebooks for visual explanation
+- Colab Notebooks for visual explanation
 - PyTorch (for sanity-checks only)
 - Markdown + LaTeX for writeups

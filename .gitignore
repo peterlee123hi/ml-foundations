@@ -1,0 +1,28 @@
+# Python virtual envs
+.venv/
+venv/
+
+# Jupyter Notebook cache and checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# VS Code / PyCharm
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+
+# Colab stuff
+*.ipynb~
+
+# Data and model files
+*.h5
+*.pth
+*.pt
+*.ckpt
+*.npz
+*.npy
