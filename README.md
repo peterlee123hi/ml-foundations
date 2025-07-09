@@ -1,23 +1,23 @@
 # ML Foundations
 
-This is a living repository of practical projects for myself to revisit machine learning fundamentals and their underlying mathematical foundations. Each project is built with minimal dependencies (e.g., only NumPy).
+This is a living repository of practical notebooks to revisit core machine learning concepts and the mathematical foundations behind them. Each project is kept minimal and transparent, using only lightweight dependencies like NumPy.
+
+LLMs were used only to improve written explanations - absolutely no code or pseudocode was AI-generated.
 
 ## Educational Projects
 
-Each project focuses on internalizing the mechanics.
-
 ### Deep Learning
-- [ ] **Pure Python** neural network (forward + backprop)
+- [ ] Basic neural network from scratch (forward + backprop)
 - [ ] Backpropagation via matrix calculus (written derivation + implementation)
 - [ ] CNN layers and training loops on toy data
 - [ ] Attention mechanisms from scratch
 - [ ] Minimal implementation of the Transformer architecture
 
 ### Mathematical Foundations
-- [ ] Matrix decomposition library (SVD, eigendecomposition, orthogonal projections)
+- [ ] Matrix decomposition (SVD, eigendecomposition, orthogonal projections)
 - [ ] Gradient and Jacobian visualizer for multivariate functions
-- [ ] Numerical optimization playground (gradient descent, SGD variants)
-- [ ] Manual backprop walkthrough with symbolic derivation (LaTeX + markdown)
+- [ ] Numerical optimization (gradient descent, SGD variants)
+- [ ] Manual backprop with symbolic derivation (LaTeX + markdown)
 
 ### Classical Machine Learning
 - [ ] Logistic Regression classifier with loss surface plots and decision boundaries  
@@ -40,7 +40,7 @@ Each project focuses on internalizing the mechanics.
 
 ## Tech Stack & Tools
 
-- Python, NumPy, Matplotlib
+- Python, NumPy, Matplotlib, Seaborn
 - Colab Notebooks for visual explanation
-- PyTorch (for sanity-checks only)
+- PyTorch, Scikit-learn (for sanity-checks only)
 - Markdown + LaTeX for writeups

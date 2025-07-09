@@ -4,6 +4,7 @@ venv/
 
 # Jupyter Notebook cache and checkpoints
 .ipynb_checkpoints/
+*.ipynb~
 
 # Python bytecode
 __pycache__/
@@ -15,9 +16,6 @@ __pycache__/
 
 # OS junk
 .DS_Store
-
-# Colab stuff
-*.ipynb~
 
 # Data and model files
 *.h5
