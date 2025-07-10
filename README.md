@@ -12,12 +12,12 @@ LLMs were used only to improve written explanations - absolutely no code or pseu
 - [ ] CNN layers and training loops on toy data
 - [ ] Attention mechanisms from scratch
 - [ ] Minimal implementation of the Transformer architecture
+- [ ] Variational Autoencoder (VAE) from scratch on MNIST
 
 ### Mathematical Foundations
 - [ ] Matrix decomposition (SVD, eigendecomposition, orthogonal projections)
 - [ ] Gradient and Jacobian visualizer for multivariate functions
 - [ ] Numerical optimization (gradient descent, SGD variants)
-- [ ] Manual backprop with symbolic derivation (LaTeX + markdown)
 
 ### Classical Machine Learning
 - [ ] Logistic Regression classifier with loss surface plots and decision boundaries  
