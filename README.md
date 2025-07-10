@@ -7,12 +7,12 @@ LLMs were used only to improve written explanations - absolutely no code or pseu
 ## Educational Projects
 
 ### Deep Learning
-- [ ] Basic neural network from scratch (forward + backprop)
+- [ ] Basic neural network from scratch (forward + backprop, ReLU, Leaky ReLU, sigmoid, tanh, GELU, Xavier/He initialization)
 - [ ] Backpropagation via matrix calculus (written derivation + implementation)
-- [ ] CNN layers and training loops on toy data
-- [ ] Attention mechanisms from scratch
-- [ ] Minimal implementation of the Transformer architecture
-- [ ] Variational Autoencoder (VAE) from scratch on MNIST
+- [ ] CNN layers and training loops on toy data (BatchNorm, weight initialization, activation comparisons)
+- [ ] Attention mechanisms from scratch (softmax temperature scaling, LayerNorm, positional encodings)
+- [ ] Minimal implementation of the Transformer architecture (multi-head attention, residuals, LayerNorm, GELU)
+- [ ] Variational Autoencoder (VAE) from scratch on MNIST (KL divergence, reparameterization, latent space interpolation)
 
 ### Mathematical Foundations
 - [ ] Matrix decomposition (SVD, eigendecomposition, orthogonal projections)
