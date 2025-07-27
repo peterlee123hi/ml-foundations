@@ -40,6 +40,6 @@ LLMs were used only to lightly improve written explanations - absolutely no LaTe
 ## Tech Stack & Tools
 
 - Python, NumPy, Matplotlib, Seaborn
-- Colab Notebooks for visual explanation
+- Jupyter Notebooks for derivations and code
 - PyTorch, Scikit-learn (for sanity-checks only)
 - Markdown + LaTeX for writeups
