@@ -36,7 +36,6 @@ LLMs were used only to improve written explanations - absolutely no code or pseu
 - [ ] Understanding Deep Learning Requires Rethinking Generalization
 - [ ] The Lottery Ticket Hypothesis
 - [ ] Diffusion Models Beat GANs on Image Synthesis
-- [ ] More to come...
 
 ## Tech Stack & Tools
 
