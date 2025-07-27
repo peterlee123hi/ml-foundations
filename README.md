@@ -2,7 +2,7 @@
 
 This is a living repository of practical notebooks to revisit core machine learning concepts and the mathematical foundations behind them. Each project is kept minimal and transparent, using only lightweight dependencies like NumPy.
 
-LLMs were used only to improve written explanations - absolutely no code or pseudocode was AI-generated.
+LLMs were used only to lightly improve written explanations - absolutely no LaTeX, code, or pseudocode was AI-generated.
 
 ## Educational Projects
 
