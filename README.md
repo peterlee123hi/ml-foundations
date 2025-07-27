@@ -20,7 +20,7 @@ LLMs were used only to improve written explanations - absolutely no code or pseu
 - [ ] Numerical optimization (gradient descent, SGD variants)
 
 ### Classical Machine Learning
-- [ ] Linear Regression from scratch (MLE, Bayesian inference, uncertainty visualization, gradient descent)
+- [ ] Linear Regression from scratch (MLE, Bayesian inference, gradient descent, uncertainty visualization)
 - [ ] Logistic Regression classifier with loss surface plots and decision boundaries  
 - [ ] PCA from scratch with eigenvalue interpretation and 2D projection plots  
 - [ ] SVM primal/dual solver with margin visualization  
