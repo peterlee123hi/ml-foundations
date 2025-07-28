@@ -1,6 +1,6 @@
 # ML Foundations
 
-This is a living repository of practical notebooks to revisit core machine learning concepts and the mathematical foundations behind them. Each project is kept minimal and transparent, using only lightweight dependencies like NumPy.
+This is a living repository of practical notebooks to revisit core machine learning concepts and the mathematical foundations behind them. Each project is kept minimal and transparent using mostly NumPy.
 
 LLMs were used only to lightly improve written explanations - absolutely no LaTeX, code, or pseudocode was AI-generated.
 
