@@ -5,7 +5,6 @@ This is a collection of practical notebooks to revisit core machine learning con
 ## Educational Projects
 
 ### Deep Learning
-- [ ] Backpropagation via matrix calculus (written derivation + implementation)
 - [ ] Basic neural network from scratch (forward + backprop, ReLU, Leaky ReLU, sigmoid, tanh, GELU, Xavier/He initialization)
 - [ ] CNN layers and training loops on toy data (BatchNorm, weight initialization, activation comparisons)
 - [ ] Attention mechanisms from scratch (softmax temperature scaling, LayerNorm, positional encodings)
@@ -15,6 +14,7 @@ This is a collection of practical notebooks to revisit core machine learning con
 ### Mathematical Foundations
 - [x] Matrix decomposition (SVD, eigendecomposition, orthogonal projections)
 - [ ] Gradient and Jacobian visualizer for multivariate functions
+- [ ] Backpropagation via matrix calculus (written derivation + implementation)
 - [ ] Numerical optimization (gradient descent, SGD variants)
 
 ### Classical Machine Learning
