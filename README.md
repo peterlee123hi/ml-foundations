@@ -18,7 +18,7 @@ This is a collection of practical notebooks to revisit core machine learning con
 - [ ] Numerical optimization (gradient descent, SGD variants)
 
 ### Classical Machine Learning
-- [ ] Linear Regression from scratch (MLE, Bayesian inference, gradient descent, uncertainty visualization)
+- [x] Linear Regression from scratch (MLE, Bayesian inference, gradient descent, uncertainty visualization)
 - [ ] Logistic Regression classifier with loss surface plots and decision boundaries  
 - [ ] PCA from scratch with eigenvalue interpretation and 2D projection plots  
 - [ ] SVM primal/dual solver with margin visualization  
