@@ -7,8 +7,7 @@ This is a collection of practical notebooks to revisit core machine learning con
 ### Deep Learning
 - [ ] Basic neural network from scratch (forward + backprop, ReLU, Leaky ReLU, sigmoid, tanh, GELU, Xavier/He initialization)
 - [ ] CNN layers and training loops on toy data (BatchNorm, weight initialization, activation comparisons)
-- [ ] Attention mechanisms from scratch (softmax temperature scaling, LayerNorm, positional encodings)
-- [ ] Minimal implementation of the Transformer architecture (multi-head attention, residuals, LayerNorm, GELU)
+- [ ] Minimal implementation of the Transformer architecture (attention mechanisms, multi-head attention, residuals, LayerNorm, GELU)
 - [ ] Variational Autoencoder (VAE) from scratch on MNIST (KL divergence, reparameterization, latent space interpolation)
 
 ### Mathematical Foundations
