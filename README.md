@@ -4,17 +4,17 @@ This is a collection of practical notebooks to revisit core machine learning con
 
 ## Educational Projects
 
-### Deep Learning
-- [ ] Basic neural network from scratch (forward + backprop, ReLU, Leaky ReLU, sigmoid, tanh, GELU, Xavier/He initialization)
-- [ ] CNN layers and training loops on toy data (BatchNorm, weight initialization, activation comparisons)
-- [ ] Minimal implementation of the Transformer architecture (attention mechanisms, multi-head attention, residuals, LayerNorm, GELU)
-- [ ] Variational Autoencoder (VAE) from scratch on MNIST (KL divergence, reparameterization, latent space interpolation)
-
 ### Mathematical Foundations
 - [x] Matrix decomposition (SVD, eigendecomposition, orthogonal projections)
 - [x] Gradient and Jacobian visualizer for multivariate functions
 - [ ] Backpropagation via matrix calculus (written derivation + implementation)
 - [ ] Numerical optimization (gradient descent, SGD variants)
+
+### Deep Learning
+- [ ] Basic neural network from scratch (forward + backprop, ReLU, Leaky ReLU, sigmoid, tanh, GELU, Xavier/He initialization)
+- [ ] CNN layers and training loops on toy data (BatchNorm, weight initialization, activation comparisons)
+- [ ] Minimal implementation of the Transformer architecture (attention mechanisms, multi-head attention, residuals, LayerNorm, GELU)
+- [ ] Variational Autoencoder (VAE) from scratch on MNIST (KL divergence, reparameterization, latent space interpolation)
 
 ### Classical Machine Learning
 - [x] Linear Regression from scratch (MLE, Bayesian inference, gradient descent, uncertainty visualization)
