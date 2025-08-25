@@ -18,7 +18,7 @@ This is a collection of practical notebooks to revisit core machine learning con
 ### Classical Machine Learning
 - [x] Linear Regression from scratch (MLE, Bayesian inference, gradient descent, uncertainty visualization)
 - [ ] Logistic Regression classifier with loss surface plots and decision boundaries  
-- [ ] Decision Tree and Random Forest implementation with toy datasets
+- [ ] Gradient Boosted Trees with XGBoost (boosting theory, regularization, tabular benchmarks)
 
 ## Paper Reading Log
 
