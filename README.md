@@ -5,13 +5,12 @@ This is a collection of practical notebooks to revisit core machine learning con
 ## Educational Projects
 
 ### Mathematical Foundations
-- [x] Matrix decomposition (SVD, eigendecomposition, orthogonal projections)
+- [x] Matrix decomposition (SVD, eigendecomposition, orthogonal projections, PCA)
 - [x] Gradient and Jacobian visualizer for multivariate functions
-- [ ] Backpropagation via matrix calculus (written derivation + implementation)
+- [ ] Backpropagation via matrix calculus (written derivation + implementation, minigrad)
 - [ ] Numerical optimization (gradient descent, SGD variants)
 
 ### Deep Learning
-- [ ] Basic neural network from scratch (forward + backprop, ReLU, Leaky ReLU, sigmoid, tanh, GELU, Xavier/He initialization)
 - [ ] CNN layers and training loops on toy data (BatchNorm, weight initialization, activation comparisons)
 - [ ] Minimal implementation of the Transformer architecture (attention mechanisms, multi-head attention, residuals, LayerNorm, GELU)
 - [ ] Variational Autoencoder (VAE) from scratch on MNIST (KL divergence, reparameterization, latent space interpolation)
@@ -19,8 +18,6 @@ This is a collection of practical notebooks to revisit core machine learning con
 ### Classical Machine Learning
 - [x] Linear Regression from scratch (MLE, Bayesian inference, gradient descent, uncertainty visualization)
 - [ ] Logistic Regression classifier with loss surface plots and decision boundaries  
-- [ ] PCA from scratch with eigenvalue interpretation and 2D projection plots  
-- [ ] SVM primal/dual solver with margin visualization  
 - [ ] Decision Tree and Random Forest implementation with toy datasets
 
 ## Paper Reading Log
