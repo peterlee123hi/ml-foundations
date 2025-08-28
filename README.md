@@ -12,8 +12,8 @@ This is a collection of practical notebooks to revisit core machine learning con
 
 ### Deep Learning
 - [ ] CNN layers and training loops on toy data (BatchNorm, weight initialization, activation comparisons)
-- [ ] Minimal implementation of the Transformer architecture (attention mechanisms, multi-head attention, residuals, LayerNorm, GELU)
-- [ ] Variational Autoencoder (VAE) from scratch on MNIST (KL divergence, reparameterization, latent space interpolation)
+- [ ] Minimal Transformer architecture implementation (attention mechanisms, multi-head attention, residuals, LayerNorm, GELU)
+- [ ] Minimal Diffusion model on MNIST (forward noising + reverse denoising, denoising network, ELBO/KL derivation for theory)
 
 ### Classical Machine Learning
 - [x] Linear Regression from scratch (MLE, Bayesian inference, gradient descent, uncertainty visualization)
@@ -23,13 +23,16 @@ This is a collection of practical notebooks to revisit core machine learning con
 ## Paper Reading Log
 
 ### Foundational Papers
-- [ ] Attention is All You Need
-- [ ] Auto-Encoding Variational Bayes
-- [ ] Understanding Machine Learning: From Theory to Algorithms
-- [ ] Deep Residual Learning for Image Recognition
-- [ ] Understanding Deep Learning Requires Rethinking Generalization
-- [ ] The Lottery Ticket Hypothesis
-- [ ] Diffusion Models Beat GANs on Image Synthesis
+- [ ] Attention is All You Need (2017)
+- [ ] Auto-Encoding Variational Bayes (2013)
+- [ ] Deep Residual Learning for Image Recognition (2015)
+- [ ] Diffusion Models Beat GANs on Image Synthesis (2021)
+- [ ] Distilling the Knowledge in a Neural Network (2015)
+- [ ] Quantizing Deep Convolutional Networks for Efficient Inference (2016)
+- [ ] Word2Vec and GloVe (2013-14)
+- [ ] Outrageously Large Neural Networks: The Sparsely-Gated MoE Layer (2017)
+- [ ] Low-Rank Adaptation of Large Language Models (2021)
+- [ ] Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (2020)
 
 ## Tech Stack & Tools
 
