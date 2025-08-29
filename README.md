@@ -7,7 +7,7 @@ This is a collection of practical notebooks to revisit core machine learning con
 ### Mathematical Foundations
 - [x] Matrix decomposition (SVD, eigendecomposition, orthogonal projections, PCA)
 - [x] Gradient and Jacobian visualizer for multivariate functions
-- [ ] Backpropagation via matrix calculus (differentials, trace trick, chain rules, core layer/loss derivations)
+- [x] Backpropagation via matrix calculus (differentials, trace trick, chain rules, core layer/loss derivations)
 - [ ] Numerical optimization (gradient descent, SGD variants, Momentum, Adam, convergence theory)
 
 ### Deep Learning
