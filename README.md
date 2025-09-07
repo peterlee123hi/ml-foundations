@@ -36,7 +36,7 @@ This is a collection of practical notebooks to revisit core machine learning con
 - [ ] Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (2020)
 
 ## Tech Stack & Tools
-- Python, NumPy, Matplotlib, Seaborn
+- Python, NumPy, Matplotlib
 - Jupyter Notebooks for derivations and code
-- PyTorch, Scikit-learn (for sanity-checks only)
+- PyTorch (for sanity-checks only)
 - Markdown + LaTeX for writeups
