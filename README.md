@@ -12,9 +12,9 @@ This is a collection of practical notebooks to revisit core machine learning con
 
 ### Deep Learning
 - [ ] Minigrad autodiff engine with MLP experiments (autodiff core, gradient checks, optimizers, toy datasets)
-- [ ] CNN layers and training loops on toy data (BatchNorm, weight initialization, activation comparisons)
 - [ ] Minimal Transformer architecture implementation (attention mechanisms, multi-head attention, residuals, LayerNorm, GELU)
 - [ ] Minimal Diffusion model on MNIST (forward noising + reverse denoising, denoising network, ELBO/KL derivation)
+- [ ] CNN layers and training loops on toy data (BatchNorm, weight initialization, activation comparisons)
 
 ### Classical Machine Learning
 - [x] Linear Regression from scratch (MLE, Bayesian inference, gradient descent, uncertainty visualization)
