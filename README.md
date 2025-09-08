@@ -8,7 +8,7 @@ This is a collection of practical notebooks to revisit core machine learning con
 - [x] Matrix decomposition (SVD, eigendecomposition, orthogonal projections, PCA)
 - [x] Gradient and Jacobian visualizer for multivariate functions
 - [x] Backpropagation via matrix calculus (differentials, trace trick, chain rules, core layer/loss derivations)
-- [ ] Numerical optimization (gradient descent, SGD, Momentum, Adam, convergence theory)
+- [x] Numerical optimization (gradient descent, SGD, Momentum, Adam, convergence theory)
 
 ### Deep Learning
 - [ ] Minigrad autodiff engine with MLP experiments (autodiff core, gradient checks, optimizers, toy datasets)
