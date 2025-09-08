@@ -5,13 +5,13 @@ This is a collection of practical notebooks to revisit core machine learning con
 ## Educational Projects
 
 ### Mathematical Foundations
-- [x] Matrix decomposition (SVD, eigendecomposition, orthogonal projections, PCA)
+- [x] Matrix decomposition (orthogonal projections, eigendecomposition, SVD, PCA)
 - [x] Gradient and Jacobian visualizer for multivariate functions
-- [x] Backpropagation via matrix calculus (differentials, trace trick, chain rules, core layer/loss derivations)
-- [x] Numerical optimization (gradient descent, SGD, Momentum, Adam, convergence theory)
+- [x] Backpropagation via matrix calculus (differentials, trace trick, chain rules, layer/loss derivations)
+- [x] Numerical optimization (gradient descent, SGD, Momentum, Adam)
 
 ### Deep Learning
-- [ ] Minigrad autodiff engine with MLP experiments (autodiff core, gradient checks, optimizers, toy datasets)
+- [ ] Minimal autodiff engine with MLP experiments on toy data (Tensor class, reverse-mode backprop, optimizers)
 - [ ] Minimal Transformer architecture implementation (attention mechanisms, multi-head attention, residuals, LayerNorm, GELU)
 - [ ] Minimal Diffusion model on MNIST (forward noising + reverse denoising, denoising network, ELBO/KL derivation)
 - [ ] CNN layers and training loops on toy data (BatchNorm, weight initialization, activation comparisons)
