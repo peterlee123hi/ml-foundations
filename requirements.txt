@@ -9,3 +9,4 @@ torchvision==0.17.2
 scikit-learn==1.6.1
 pandas==2.3.2
 tqdm==4.67.1
+datasets==4.0.0

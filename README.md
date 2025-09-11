@@ -11,7 +11,7 @@ This is a collection of practical notebooks to revisit core machine learning con
 - [x] Numerical optimization (gradient descent, SGD, Momentum, Adam)
 
 ### Deep Learning
-- [ ] Minimal autodiff engine with MLP experiments on toy data (Tensor class, reverse-mode backprop, optimizers)
+- [x] Minimal autodiff engine with MLP on MNIST (Tensor class, reverse-mode backprop, optimizers)
 - [ ] Minimal Transformer architecture implementation (attention mechanisms, multi-head attention, residuals, LayerNorm, GELU)
 - [ ] Minimal Diffusion model on MNIST (forward noising + reverse denoising, denoising network, ELBO/KL derivation)
 - [ ] CNN layers and training loops on toy data (BatchNorm, weight initialization, activation comparisons)
