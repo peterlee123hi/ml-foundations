@@ -38,5 +38,5 @@ This is a collection of practical notebooks to revisit core machine learning con
 ## Tech Stack & Tools
 - Python, NumPy, Matplotlib
 - Jupyter Notebooks
-- PyTorch (for sanity-checks only)
+- PyTorch
 - Markdown + LaTeX for writeups
