@@ -12,7 +12,7 @@ This is a collection of practical notebooks to revisit core machine learning con
 
 ### Deep Learning
 - [x] Minimal autodiff engine with multi-layer perceptron on MNIST (Tensor class, reverse-mode backprop, optimizers)
-- [ ] Minimal Transformer architecture implementation (attention mechanisms, multi-head attention, residuals, LayerNorm, GELU)
+- [x] Minimal Transformer architecture implementation (attention mechanisms, multi-head attention, residuals, LayerNorm, GELU)
 - [ ] Minimal Diffusion model on MNIST (forward noising + reverse denoising, denoising network, ELBO/KL derivation)
 - [ ] CNN layers and training loops on toy data (BatchNorm, weight initialization, activation comparisons)
 
