@@ -21,20 +21,6 @@ This is a collection of practical notebooks to revisit core machine learning con
 - [x] Logistic Regression classifier with loss surface plots and decision boundaries  
 - [ ] Gradient Boosted Trees with XGBoost (boosting theory, regularization, tabular benchmarks)
 
-## Paper Reading Log
-
-### Foundational Papers
-- [ ] Attention is All You Need (2017)
-- [ ] Auto-Encoding Variational Bayes (2013)
-- [ ] Deep Residual Learning for Image Recognition (2015)
-- [ ] Diffusion Models Beat GANs on Image Synthesis (2021)
-- [ ] Distilling the Knowledge in a Neural Network (2015)
-- [ ] Quantizing Deep Convolutional Networks for Efficient Inference (2016)
-- [ ] Word2Vec and GloVe (2013-14)
-- [ ] Outrageously Large Neural Networks: The Sparsely-Gated MoE Layer (2017)
-- [ ] Low-Rank Adaptation of Large Language Models (2021)
-- [ ] Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (2020)
-
 ## Tech Stack & Tools
 - Python, NumPy, Matplotlib
 - Jupyter Notebooks
